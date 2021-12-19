@@ -9,6 +9,8 @@
 
 # public channels where matterbridge is
 # excluded: #globalpirates (we just provide the bridge), oper room x2 (not solely ours either)
+#  If they were included, oper running this would cause takeover of those
+#  channels as being oper overrides AMODE permission check
 # included: #messi (if they have power in our rooms, hopefully they are also an activist)
 for channel in \#helsinki \#keski-suomi \#pirkanmaa \#oulu \#puoluevaltuusto \#puoluetoimisto \#pinu_hallitus \#uusimaa \#varsinais-suomi \#akateemisetpiraatit \#piraattinuoret \#kampanjateltta \#sateenkaaripiraatit \#hame \#vaasa \#hallituskokous \#grafiikka \#toiminta \#piraattivpn \#ppfi \#hepihalko \#aaltopiraatit \#kaakko \#mediaseuranta \#savo-karjala \#messi \#piraatit \#suomiareena \#satakunta \#verkkopalvelut
 do
