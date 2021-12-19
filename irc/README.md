@@ -18,3 +18,9 @@ in hope that PPFI is able to operate IRC without @Mikaela constantly present.
 * `./generate-usual-mode-cmds.bash +o MI1` - non-oper version of the previous script,
   generates normal `/mode` commands within the usual permission system most likely
   requiring being op (use the amode script for that, see drawbacks of the previous script).
+
+## Further reading and notes
+
+* (CS) AMODE +h (halfop) overrides mode `+i` (invite-only channel).
+* https://github.com/ergochat/ergo/blob/master/docs/MANUAL.md#channel-prefixes - on owner/protected/op/halfop/voice
+* https://github.com/ergochat/ergo/blob/master/docs/MANUAL.md#modes - on channel modes such as the aforementioned invite-only
