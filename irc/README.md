@@ -1,0 +1,20 @@
+# Scripts for managing PPFI channels on PirateIRC
+
+The original list of channels comes from where `MI1` is according to oper
+`WHOIS` and should match `kanavat.csv` with exceptions of secret channels
+and those not (fully) belonging to Pirate Party of Finland.
+
+The scripts only generate lines that should be copy-pasted to a IRC client
+for anything to actually happen. They are provided [missing GroupServ](https://github.com/ergochat/ergo/issues/465)
+in hope that PPFI is able to operate IRC without @Mikaela constantly present.
+
+* `./generate-amode-cmds.bash +o MI1` - giving user `MI1` op on all channels
+  which will persist and be granted on join. ***Prefer this script.***
+* `./generate-oper-override-mode.bash +o MI1` - the same, except requires operator
+  permission, allows unregistered accounts and doesn't persist over `/cycle`
+  whether manual or connection loss or similar. ***Use only in emergency
+  and even in emergency, and even then prefer amoding yourself with the previous script and then
+  using the next script.***
+* `./generate-usual-mode-cmds.bash +o MI1` - non-oper version of the previous script,
+  generates normal `/mode` commands within the usual permission system most likely
+  requiring being op (use the amode script for that, see drawbacks of the previous script).
