@@ -39,7 +39,7 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
 		"@mikaela:pirateriot.net": 100,
 		"@mikaela:tchncs.de": 100,
 		"@aminda:tedomum.net": 100,
-		"@mikaela.matterbridge:tedomum.net": 100
+		"@mikaela.matterbridge:tedomum.net": 100,
 		"@mikaela.matterbridge:converser.eu": 100,
 		"@uduntuntu:kapsi.fi": 100,
 		"@uduntuntu:elokapina.fi": 100
