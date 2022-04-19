@@ -40,7 +40,9 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
 		"@mikaela:tchncs.de": 100,
 		"@aminda:tedomum.net": 100,
 		"@mikaela.matterbridge:tedomum.net": 100
-		"@mikaela.matterbridge:converser.eu": 100
+		"@mikaela.matterbridge:converser.eu": 100,
+		"@uduntuntu:kapsi.fi": 100,
+		"@uduntuntu:elokapina.fi": 100
 	},
 	"users_default": 0
 }
@@ -58,8 +60,9 @@ Mitä tämä sallii vrt. oletus?
 Voimalliset käyttäjät
 
 * `@matterbridgeppfi:pirateriot.net` - toistinbotti (Verkkopalvelutiimillä pääsy)
-* `Ciblia`, `mikaela`, `Aminda` ovat Aminda Suomalainen, jonka toistinbotilla on
+* `Ciblia`, `mikaela`, `aminda` ovat Aminda Suomalainen, jonka toistinbotilla on
   myös varmuuden vuoksi oikeuksia.
+* `uduntuntu` on tietysti Utu Hopiavuori
 
 *PL100 ei voi alentaa muita PL100-käyttäjiä ja PL100 on oletus huonetta luodessa.
 Tämän vuoksi huoneissa saattaa olla myös vanhoja voimallisia käyttäjiä, esimerkiksi
