@@ -20,13 +20,13 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
 		"m.room.retention": 100,
 		"m.room.server_acl": 100,
 		"m.room.tombstone": 100,
-		"m.room.topic": 50,
+		"m.room.topic": 25,
 		"m.space.child": 50
 	},
 	"events_default": 0,
 	"historical": 100,
 	"invite": 0,
-	"kick": 50,
+	"kick": 25,
 	"redact": 50,
 	"state_default": 50,
 	"users": {
@@ -56,6 +56,10 @@ Mitä tämä sallii vrt. oletus?
 * Kaikki voivat kutsua muita käyttäjiä huoneeseen (toistaiseksi sitä ei ole väärinkäytetty
   puolueen piirissä, vähemmän työtä ylläpidolle lisätessä huoneisiin ja väärinkäyttäjän pitäisi
   jokatapauksessa päästä koputuksen tai sallitun Spacen läpi)
+* IRCstä tuttu half-op on PL25 ja voi vaihtaa topicia tai poistaa käyttäjiä huoneesta
+  (ei poistaa viestejä tai bannata).
+  * Esimerkkikäyttötapaus: henkilö ei halua moderoida, mutta hänen tarvitsee muokata
+    topicista päivämääriä?
 
 Voimalliset käyttäjät
 
