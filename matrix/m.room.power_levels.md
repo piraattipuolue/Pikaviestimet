@@ -16,6 +16,7 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
 		"m.room.encryption": 100,
 		"m.room.history_visibility": 99,
 		"m.room.name": 50,
+		"m.room.pinned_events": 25,
 		"m.room.power_levels": 50,
 		"m.room.retention": 100,
 		"m.room.server_acl": 100,
@@ -56,8 +57,8 @@ Mitä tämä sallii vrt. oletus?
 * Kaikki voivat kutsua muita käyttäjiä huoneeseen (toistaiseksi sitä ei ole väärinkäytetty
   puolueen piirissä, vähemmän työtä ylläpidolle lisätessä huoneisiin ja väärinkäyttäjän pitäisi
   jokatapauksessa päästä koputuksen tai sallitun Spacen läpi)
-* IRCstä tuttu half-op on PL25 ja voi vaihtaa topicia tai poistaa käyttäjiä huoneesta
-  (ei poistaa viestejä tai bannata).
+* IRCstä tuttu half-op on PL25 ja voi vaihtaa topicia, kiinnitettyjä viestejä
+  tai poistaa käyttäjiä huoneesta (ei poistaa viestejä tai bannata).
   * Esimerkkikäyttötapaus: henkilö ei halua moderoida, mutta hänen tarvitsee muokata
     topicista päivämääriä?
 * PL13 voi asettaa pääaliaksen, lisätä/poistaa julkaistuja aliaksia ja
