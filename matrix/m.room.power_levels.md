@@ -12,7 +12,7 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
 	"events": {
 		"im.vector.modular.widgets": 50,
 		"m.room.avatar": 50,
-		"m.room.canonical_alias": 50,
+		"m.room.canonical_alias": 13,
 		"m.room.encryption": 100,
 		"m.room.history_visibility": 99,
 		"m.room.name": 50,
@@ -60,6 +60,14 @@ Mitä tämä sallii vrt. oletus?
   (ei poistaa viestejä tai bannata).
   * Esimerkkikäyttötapaus: henkilö ei halua moderoida, mutta hänen tarvitsee muokata
     topicista päivämääriä?
+* PL13 voi asettaa pääaliaksen, lisätä/poistaa julkaistuja aliaksia ja
+  (tapauksessa Synapse) [julkistaa/poistaa huonehakemistosta](https://github.com/vector-im/element-web/issues/13835).
+  * Pääalias ei vaikuta `ctrl-k` käyttöön niin paljon.
+  * Huoneet löydetään yleensä Spacejen tai Matrix-linkkien kautta
+    (joissa määritetään huoneen sisäinen ID aliaksen sijaan).
+  * Palvelimen huonehakemistot ovat etenkin suuremmilla palvelimilla laadultaan
+    vaihtelevia, niissä oleminen tai puuttuminen ei ole menetys. Ks. Spacet.
+  * Tätäkään oikeutta ei tule antaa täysin epäluotetuille käyttäjille.
 
 Voimalliset käyttäjät
 
