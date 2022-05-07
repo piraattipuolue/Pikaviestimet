@@ -28,7 +28,7 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
 	"historical": 100,
 	"invite": 0,
 	"kick": 25,
-	"redact": 50,
+	"redact": 25,
 	"state_default": 50,
 	"users": {
 		"@matterbridgeppfi:pirateriot.net": 100,
@@ -58,9 +58,9 @@ Mitä tämä sallii vrt. oletus?
   puolueen piirissä, vähemmän työtä ylläpidolle lisätessä huoneisiin ja väärinkäyttäjän pitäisi
   jokatapauksessa päästä koputuksen tai sallitun Spacen läpi)
 * IRCstä tuttu half-op on PL25 ja voi vaihtaa topicia, kiinnitettyjä viestejä
-  tai poistaa käyttäjiä huoneesta (ei poistaa viestejä tai bannata).
-  * Esimerkkikäyttötapaus: henkilö ei halua moderoida, mutta hänen tarvitsee muokata
-    topicista päivämääriä?
+  tai poistaa viestejä/käyttäjiä huoneesta (ei bannata).
+  * Esimerkkikäyttötapaus: henkilö ei halua moderoida banneja, mutta hänen
+    tarvitsee muokata topicista päivämääriä tai poiistaa toistettua spammia.
 * PL13 voi asettaa pääaliaksen, lisätä/poistaa julkaistuja aliaksia ja
   (tapauksessa Synapse) [julkistaa/poistaa huonehakemistosta](https://github.com/vector-im/element-web/issues/13835).
   * Pääalias ei vaikuta `ctrl-k` käyttöön niin paljon.
