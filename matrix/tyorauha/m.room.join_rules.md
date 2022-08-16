@@ -1,6 +1,8 @@
 # Tekniset liittymissäännöt työrauhaa vaativille kanaville
 
-## Huoneeseen liittyminen avaruuteen kuulumisen perusteella
+## Huoneeseen liittyminen Spaceen kuulumisen perusteella ja koputtamalla
+
+*Vaatii vähintään huoneversion ~~8~~ 9 (`restricted`) tai 10 `knock_restricted`.*
 
 TL;DR `/devtools`, explore room state, `m.room.join_rules`
 
@@ -16,7 +18,7 @@ TL;DR `/devtools`, explore room state, `m.room.join_rules`
                         "type": "m.room_membership"
                 }
         ],
-        "join_rule": "restricted"
+        "join_rule": "knock_restricted"
 }
 ```
 
