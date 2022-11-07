@@ -32,20 +32,24 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
 	"state_default": 50,
 	"users": {
 		"@matterbridgeppfi:pirateriot.net": 100,
+		"@matterbridgeppfi:dendrite.matrix.org": 100,
 		"@Ciblia:matrix.org": 100,
+		"@aminda:dendrite.matrix.org": 100,
 		"@aminda:matrix.org": 100,
+		"@aminda:mozilla.org": 100,
 		"@aminda:pikaviestin.fi": 100,
-		"@mikaela.suomalainen:matrix.org": 100,
+		"@aminda:tedomum.net": 100,
 		"@mikaela:pirateriot.net": 100,
 		"@mikaela:tchncs.de": 100,
-		"@aminda:tedomum.net": 100,
 		"@mkaysi:fedora.im": 100,
-		"@aminda:mozilla.org": 100,
-		"@mikaela.matterbridge:tedomum.net": 100,
+		"@aminda:the-apothecary.club": 100,
+		"@mikaela.suomalainen:matrix.org": 100,
 		"@mikaela.matterbridge:converser.eu": 100,
+		"@mikaela.matterbridge:tedomum.net": 100,
 		"@aminda.matterbridge:jae.fi": 100,
 		"@uduntuntu:kapsi.fi": 100,
-		"@uduntuntu:elokapina.fi": 100
+		"@uduntuntu:elokapina.fi": 100,
+		"@sthjs:pikaviestin.fi": 50
 	},
 	"users_default": 0
 }
