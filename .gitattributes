@@ -1,3 +1,10 @@
+# Line normalisation, GitHub language detection for everything
+* text=auto linguist-detectable
+
+# Checkout bash files with lf line endings regardless of platform
+*.bash text eol=lf
+
+# Git Large File Storage
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpeg filter=lfs diff=lfs merge=lfs -text
