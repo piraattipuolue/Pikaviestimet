@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Scripts for managing PPFI channels on PirateIRC](#scripts-for-managing-ppfi-channels-on-pirateirc)
+  - [Further reading and notes](#further-reading-and-notes)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Scripts for managing PPFI channels on PirateIRC
 
 The original list of channels comes from where `MI1` is according to oper

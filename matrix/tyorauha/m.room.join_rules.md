@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Tekniset liittymissäännöt työrauhaa vaativille kanaville](#tekniset-liittymiss%C3%A4%C3%A4nn%C3%B6t-ty%C3%B6rauhaa-vaativille-kanaville)
+  - [Huoneeseen liittyminen Spaceen kuulumisen perusteella ja koputtamalla](#huoneeseen-liittyminen-spaceen-kuulumisen-perusteella-ja-koputtamalla)
+  - [Koputtamisen salliminen](#koputtamisen-salliminen)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Tekniset liittymissäännöt työrauhaa vaativille kanaville
 
 ## Huoneeseen liittyminen Spaceen kuulumisen perusteella ja koputtamalla

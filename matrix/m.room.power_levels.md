@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [`m.room.power_levels`](#mroompower_levels)
+  - [Katso myös](#katso-my%C3%B6s)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # `m.room.power_levels`
 
 Tämä tapahtuma (`/devtools`, tutki huoneen tilaa, `m.room.power_levels`

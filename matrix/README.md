@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Piraattipuoluen Matrix-kanaviin ja niiden hallintaan liittyvää materiaalia](#piraattipuoluen-matrix-kanaviin-ja-niiden-hallintaan-liittyv%C3%A4%C3%A4-materiaalia)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Piraattipuoluen Matrix-kanaviin ja niiden hallintaan liittyvää materiaalia
 
 Tämä nojaa vahvasti Elementin `/devtools` -komentoon, jossa enimmäkseen joko
