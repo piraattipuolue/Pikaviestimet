@@ -1,6 +1,5 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Tekniset liittymissäännöt työrauhaa vaativille kanaville](#tekniset-liittymiss%C3%A4%C3%A4nn%C3%B6t-ty%C3%B6rauhaa-vaativille-kanaville)
   - [Huoneeseen liittyminen Spaceen kuulumisen perusteella ja koputtamalla](#huoneeseen-liittyminen-spaceen-kuulumisen-perusteella-ja-koputtamalla)
@@ -11,7 +10,7 @@
 
 ## Huoneeseen liittyminen Spaceen kuulumisen perusteella ja koputtamalla
 
-*Vaatii vähintään huoneversion ~~8~~ 9 (`restricted`) tai 10 `knock_restricted`.*
+_Vaatii vähintään huoneversion ~~8~~ 9 (`restricted`) tai 10 `knock_restricted`._
 
 TL;DR `/devtools`, explore room state, `m.room.join_rules`
 
@@ -39,10 +38,9 @@ TL;DR `/devtools`, explore room state, `m.room.join_rules`
 }
 ```
 
-* `!ElEgwlkMvKtpLTcPXQ:matrix.org` on pääSpace (ei työrauha) versio 9.
-* `!ESKEvwumMpSRZTnJOI:pikaviestin.fi` on pääSpace (ei työrauha) versio 10.
-* `!azROMLeGEMPdbdWnbk:matrix.org` - Piraattipuolueen työrauha v9
-* `!WDaMZSVinTZRLOTajM:hacklab.fi` - Matrix Suomi (Space) v6
-
+- `!ElEgwlkMvKtpLTcPXQ:matrix.org` on pääSpace (ei työrauha) versio 9.
+- `!ESKEvwumMpSRZTnJOI:pikaviestin.fi` on pääSpace (ei työrauha) versio 10.
+- `!azROMLeGEMPdbdWnbk:matrix.org` - Piraattipuolueen työrauha v9
+- `!WDaMZSVinTZRLOTajM:hacklab.fi` - Matrix Suomi (Space) v6
 
 Ks. `työrauha/`, jossa on myös koputtaminen.
