@@ -10,8 +10,14 @@ indent_size = tab
 
 [*.{markdown,md}]
 trim_trailing_whitespace = false
+indent_style = space
+indent_size = 2
 
 [*.{tsv,tab}]
 indent_style = tab
 indent_size = tab
 trim_trailing_whitespace = false
+
+[*.{cff,yaml,yml}]
+indent_style = space
+indent_size = 2
