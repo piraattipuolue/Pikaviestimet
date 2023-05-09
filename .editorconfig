@@ -1,14 +1,12 @@
 root = true
 
 [*]
+end_of_line = lf
 trim_trailing_whitespace = true
 insert_final_newline = true
 charset = utf-8
 indent_style = tab
 indent_size = tab
-
-[*.{bash,sh}]
-end_of_line = lf
 
 [*.{markdown,md}]
 trim_trailing_whitespace = false
