@@ -17,6 +17,7 @@ indent_size = 2
 indent_style = tab
 indent_size = tab
 trim_trailing_whitespace = false
+max_line_length = off
 
 [*.{cff,yaml,yml}]
 indent_style = space
