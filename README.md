@@ -13,7 +13,7 @@ with some exceptions of `ìrc/`._
 
 - irc/ - enimmäkseen englanniksi IRChen liittyviä skriptejä ja dokumentaatiota.
   - Enemmän aiheesta: https://git.piraattipuolue.fi/PirateIRC/
-- kanavat.csv - puolueen käytössä olevat kanavat tai ainakin ne, joissa
+- kanavat.tsv - puolueen käytössä olevat kanavat tai ainakin ne, joissa
   toistin/matterbridge on.
 - matrix/ - dokumentaatiota puolueen Matrix-huoneista/Spaceista, sekä
   esimerkki `event`tejä, joilla asettaa mm. oikeudet (`m.room.power_levels`)
