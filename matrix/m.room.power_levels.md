@@ -57,7 +57,6 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
     "@aminda.matterbridge:jae.fi": 100,
     "@uduntuntu:kapsi.fi": 100,
     "@uduntuntu:elokapina.fi": 100,
-    "@mjolnir_f6d71235-63b3-43f2-9353-eb71d6e3e9e0:mjolnir.matrix.org": 99,
     "@sthjs:pikaviestin.fi": 50
   },
   "users_default": 0
@@ -67,7 +66,7 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
 Mitä tämä sallii vrt. oletus?
 
 - Historian näkyvyyttä voi vaihtaa olematta ylläpitäjä (PL99 vs PL100)
-- PL99 voi antaa porttikieltoja kokonaisille palvelimille (Mjolnir), jotta
+- PL99 voi antaa porttikieltoja kokonaisille palvelimille (Draupnir/Mjolnir), jotta
   se voidaan tarpeen vaatiessa alentaa.
 - Moderaattorit voivat ylentää muita moderaattoriksi (PL50), mutta eivät voi alentaa.
   - Erityisen luotetuille voinee antaa 51 tai enemmän?
@@ -93,9 +92,6 @@ Voimalliset käyttäjät
 - `Ciblia`, `mikaela`, `mkaysi` ja `aminda` ovat Aminda Suomalainen, jonka
   toistinbotilla on myös varmuuden vuoksi oikeuksia.
 - `uduntuntu` on tietysti Utu Hopiavuori
-- `@mjolnir_f6d71235-63b3-43f2-9353-eb71d6e3e9e0:mjolnir.matrix.org"` - `@matterbridgeppfi:dendrite.matrix.org`
-  provisioima mjolnir-for-all -instanssi, spämmintorjunta. Tasolla 99,
-  jotta siitä päästään tarpeen vaatiessa eroon.
 
 _PL100 ei voi alentaa muita PL100-käyttäjiä ja PL100 on oletus huonetta luodessa.
 Tämän vuoksi huoneissa saattaa olla myös vanhoja voimallisia käyttäjiä, esimerkiksi
