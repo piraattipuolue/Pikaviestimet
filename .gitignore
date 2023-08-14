@@ -1,2 +1,4 @@
+*.~*
 .~lock.kanavat.csv#
+.~lock.kanavat.tsv#
 kanavat.csv
