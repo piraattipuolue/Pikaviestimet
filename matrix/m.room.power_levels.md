@@ -50,7 +50,6 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
     "@mikaela:pirateriot.net": 100,
     "@mikaela:tchncs.de": 100,
     "@mkaysi:fedora.im": 100,
-    "@aminda:the-apothecary.club": 100,
     "@mikaela.suomalainen:matrix.org": 100,
     "@mikaela.matterbridge:converser.eu": 100,
     "@mikaela.matterbridge:tedomum.net": 100,
@@ -95,7 +94,8 @@ Voimalliset käyttäjät
 
 _PL100 ei voi alentaa muita PL100-käyttäjiä ja PL100 on oletus huonetta luodessa.
 Tämän vuoksi huoneissa saattaa olla myös vanhoja voimallisia käyttäjiä, esimerkiksi
-verkosta poistuneilta palvelimilta `disroot.org`, `privacytools.io` ja `feneas.org`._
+verkosta poistuneilta palvelimilta `disroot.org`, `privacytools.io`, `feneas.org`
+ja `the-apothecary.club`._
 
 ## Katso myös
 
