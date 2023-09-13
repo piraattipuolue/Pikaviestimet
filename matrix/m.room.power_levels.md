@@ -51,6 +51,7 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
     "@mikaela:tchncs.de": 100,
     "@mkaysi:fedora.im": 100,
     "@mikaela.suomalainen:matrix.org": 100,
+    "@aminda:beeper.com": 100,
     "@mikaela.matterbridge:converser.eu": 100,
     "@mikaela.matterbridge:tedomum.net": 100,
     "@aminda.matterbridge:jae.fi": 100,
