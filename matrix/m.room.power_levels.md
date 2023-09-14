@@ -57,6 +57,7 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
     "@aminda.matterbridge:jae.fi": 100,
     "@uduntuntu:kapsi.fi": 100,
     "@uduntuntu:elokapina.fi": 100,
+    "@jarska96:beeper.com": 100,
     "@sthjs:pikaviestin.fi": 50
   },
   "users_default": 0
@@ -92,6 +93,7 @@ Voimalliset käyttäjät
 - `Ciblia`, `mikaela`, `mkaysi` ja `aminda` ovat Aminda Suomalainen, jonka
   toistinbotilla on myös varmuuden vuoksi oikeuksia.
 - `uduntuntu` on tietysti Utu Hopiavuori
+- `jarska96` on Jari Nikkinen
 
 _PL100 ei voi alentaa muita PL100-käyttäjiä ja PL100 on oletus huonetta luodessa.
 Tämän vuoksi huoneissa saattaa olla myös vanhoja voimallisia käyttäjiä, esimerkiksi
