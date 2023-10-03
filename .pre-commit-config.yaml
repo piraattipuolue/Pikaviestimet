@@ -4,6 +4,11 @@ ci:
   # https://github.com/pre-commit-ci/issues/issues/83
   autoupdate_schedule: quarterly
 
+# Aminda has too bleeding edge Python, pypy3 should be universal enough to
+# work for everyone.
+default_language_version:
+  python: pypy3
+
 repos:
   - repo: https://github.com/thlorenz/doctoc
     rev: v2.2.0
