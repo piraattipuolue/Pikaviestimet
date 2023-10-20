@@ -58,7 +58,7 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
     "@uduntuntu:kapsi.fi": 100,
     "@uduntuntu:elokapina.fi": 100,
     "@jarska96:beeper.com": 100,
-    "@draupnir_beea6411-2aaa-4404-9392-1b428ed302d4:draupnir.midnightthoughts.space": 99
+    "@draupnir_beea6411-2aaa-4404-9392-1b428ed302d4:draupnir.midnightthoughts.space": 99,
     "@sthjs:pikaviestin.fi": 50
   },
   "users_default": 0
