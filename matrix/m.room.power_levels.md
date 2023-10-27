@@ -39,7 +39,6 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
   "redact": 25,
   "state_default": 50,
   "users": {
-    "@matterbridgeppfi:pirateriot.net": 100,
     "@matterbridgeppfi:dendrite.matrix.org": 100,
     "@Ciblia:matrix.org": 100,
     "@aminda:dendrite.matrix.org": 100,
@@ -47,7 +46,6 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
     "@aminda:mozilla.org": 100,
     "@aminda:pikaviestin.fi": 100,
     "@aminda:tedomum.net": 100,
-    "@mikaela:pirateriot.net": 100,
     "@mikaela:tchncs.de": 100,
     "@mkaysi:fedora.im": 100,
     "@mikaela.suomalainen:matrix.org": 100,
@@ -90,7 +88,6 @@ Mitä tämä sallii vrt. oletus?
 
 Voimalliset käyttäjät
 
-- `@matterbridgeppfi:pirateriot.net` - toistinbotti (Verkkopalvelutiimillä pääsy)
 - `Ciblia`, `mikaela`, `mkaysi` ja `aminda` ovat Aminda Suomalainen, jonka
   toistinbotilla on myös varmuuden vuoksi oikeuksia.
 - `uduntuntu` on tietysti Utu Hopiavuori
@@ -98,8 +95,8 @@ Voimalliset käyttäjät
 
 _PL100 ei voi alentaa muita PL100-käyttäjiä ja PL100 on oletus huonetta luodessa.
 Tämän vuoksi huoneissa saattaa olla myös vanhoja voimallisia käyttäjiä, esimerkiksi
-verkosta poistuneilta palvelimilta `disroot.org`, `privacytools.io`, `feneas.org`
-ja `the-apothecary.club`._
+verkosta poistuneilta palvelimilta `disroot.org`, `privacytools.io`, `feneas.org`,
+`pirateriot.net`, sekä deaktivoituja tunnuksia, kuten `the-apothecary.club`._
 
 ## Katso myös
 
