@@ -40,6 +40,7 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
   "state_default": 50,
   "users": {
     "@matterbridgeppfi:dendrite.matrix.org": 100,
+    "@matterbridgeppfi:matrix.org": 100,
     "@Ciblia:matrix.org": 100,
     "@aminda:dendrite.matrix.org": 100,
     "@aminda:matrix.org": 100,
