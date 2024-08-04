@@ -10,7 +10,8 @@
 
 ## Huoneeseen liittyminen Spaceen kuulumisen perusteella ja koputtamalla
 
-_Vaatii vähintään huoneversion ~~8~~ 9 (`restricted`) tai 10 `knock_restricted`._
+_Vaatii vähintään huoneversion ~~8~~ 9 (`restricted`) tai 10
+`knock_restricted`._
 
 TL;DR `/devtools`, explore room state, `m.room.join_rules`
 

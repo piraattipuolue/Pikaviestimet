@@ -12,7 +12,8 @@ Tämä tapahtuma (`/devtools`, tutki huoneen tilaa, `m.room.power_levels`
 määrittää kuka saa tehdä mitä, ja millä tunnuksilla on voimaa. Toistaiseksi
 huonekohtainen, joten paljon copy-pastea.
 
-Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.power_levels/README.md#reasonable-version
+Perustuu
+https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.power_levels/README.md#reasonable-version
 
 ```json
 {
@@ -67,22 +68,25 @@ Perustuu https://gitea.blesmrt.net/mikaela/gist/src/branch/master/matrix/m.room.
 Mitä tämä sallii vrt. oletus?
 
 - Historian näkyvyyttä voi vaihtaa olematta ylläpitäjä (PL99 vs PL100)
-- PL99 voi antaa porttikieltoja kokonaisille palvelimille (Draupnir/Mjolnir), jotta
-  se voidaan tarpeen vaatiessa alentaa.
-- Moderaattorit voivat ylentää muita moderaattoriksi (PL50), mutta eivät voi alentaa.
+- PL99 voi antaa porttikieltoja kokonaisille palvelimille (Draupnir/Mjolnir),
+  jotta se voidaan tarpeen vaatiessa alentaa.
+- Moderaattorit voivat ylentää muita moderaattoriksi (PL50), mutta eivät voi
+  alentaa.
   - Erityisen luotetuille voinee antaa 51 tai enemmän?
-- Kaikki voivat kutsua muita käyttäjiä huoneeseen (toistaiseksi sitä ei ole väärinkäytetty
-  puolueen piirissä, vähemmän työtä ylläpidolle lisätessä huoneisiin ja väärinkäyttäjän pitäisi
-  jokatapauksessa päästä koputuksen tai sallitun Spacen läpi)
+- Kaikki voivat kutsua muita käyttäjiä huoneeseen (toistaiseksi sitä ei ole
+  väärinkäytetty puolueen piirissä, vähemmän työtä ylläpidolle lisätessä
+  huoneisiin ja väärinkäyttäjän pitäisi jokatapauksessa päästä koputuksen tai
+  sallitun Spacen läpi)
 - IRCstä tuttu half-op on PL25 ja voi vaihtaa topicia, kiinnitettyjä viestejä
   tai poistaa viestejä/käyttäjiä huoneesta (ei bannata).
   - Esimerkkikäyttötapaus: henkilö ei halua moderoida banneja, mutta hänen
     tarvitsee muokata topicista päivämääriä tai poiistaa toistettua spammia.
 - PL13 voi asettaa pääaliaksen, lisätä/poistaa julkaistuja aliaksia ja
-  (tapauksessa Synapse) [julkistaa/poistaa huonehakemistosta](https://github.com/vector-im/element-web/issues/13835).
+  (tapauksessa Synapse)
+  [julkistaa/poistaa huonehakemistosta](https://github.com/vector-im/element-web/issues/13835).
   - Pääalias ei vaikuta `ctrl-k` käyttöön niin paljon.
-  - Huoneet löydetään yleensä Spacejen tai Matrix-linkkien kautta
-    (joissa määritetään huoneen sisäinen ID aliaksen sijaan).
+  - Huoneet löydetään yleensä Spacejen tai Matrix-linkkien kautta (joissa
+    määritetään huoneen sisäinen ID aliaksen sijaan).
   - Palvelimen huonehakemistot ovat etenkin suuremmilla palvelimilla laadultaan
     vaihtelevia, niissä oleminen tai puuttuminen ei ole menetys. Ks. Spacet.
   - Tätäkään oikeutta ei tule antaa täysin epäluotetuille käyttäjille.
@@ -94,10 +98,11 @@ Voimalliset käyttäjät
 - `uduntuntu` on tietysti Utu Hopiavuori
 - `jarska96` on Jari Nikkinen
 
-_PL100 ei voi alentaa muita PL100-käyttäjiä ja PL100 on oletus huonetta luodessa.
-Tämän vuoksi huoneissa saattaa olla myös vanhoja voimallisia käyttäjiä, esimerkiksi
-verkosta poistuneilta palvelimilta `disroot.org`, `privacytools.io`, `feneas.org`,
-`pirateriot.net`, sekä deaktivoituja tunnuksia, kuten `the-apothecary.club`._
+_PL100 ei voi alentaa muita PL100-käyttäjiä ja PL100 on oletus huonetta
+luodessa. Tämän vuoksi huoneissa saattaa olla myös vanhoja voimallisia
+käyttäjiä, esimerkiksi verkosta poistuneilta palvelimilta `disroot.org`,
+`privacytools.io`, `feneas.org`, `pirateriot.net`, sekä deaktivoituja tunnuksia,
+kuten `the-apothecary.club`._
 
 ## Katso myös
 
