@@ -4,7 +4,7 @@ ci:
   # https://github.com/pre-commit-ci/issues/issues/83
   autoupdate_schedule: quarterly
   # Local hook, won't work
-  exclude: [prettier]
+  skip: [prettier]
 
 default_language_version:
   node: "lts"
