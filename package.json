@@ -1,7 +1,7 @@
 {
 	"devDependencies": {
-		"@aminda/global-prettier-config": "2024.28.4"
+		"@aminda/global-prettier-config": "2024.48.0"
 	},
-	"packageManager": "pnpm@9.8.0+sha512.8e4c3550fb500e808dbc30bb0ce4dd1eb614e30b1c55245f211591ec2cdf9c611cabd34e1364b42f564bd54b3945ed0f49d61d1bbf2ec9bd74b866fcdc723276",
+	"packageManager": "pnpm@9.14.3+sha512.c0f53ee99477ed969b82b289ad011a5d16bf1623c957e7f29eabe8d0c00b574c29b8c7f54f6c67ee710c73f285c8154d07ce44b46fe2c0eeb476a90441bac371",
 	"prettier": "@aminda/global-prettier-config"
 }
